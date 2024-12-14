@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allsers&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=60%2C000000%2C151515" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allsers&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=60%2C000000%2C151515" alt="GitHub Streak" /></a>
 </div>
 
 ###
