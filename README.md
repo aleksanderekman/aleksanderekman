@@ -11,7 +11,7 @@
 </div>
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">halla 👋</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">My name is Aleksander and I come from Oslo, Norway<br><br>- 🔭 I’m a student in an IT field at Elvebakken Upper Secondary School<br>- 📚 I'm currently learning website development and cloud infrastructure<br>- ⚡ In my free time I like to code, play music and be with friends</p>
 
 ###
 
