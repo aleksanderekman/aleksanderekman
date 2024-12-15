@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://www.instagram.com/aleksanderekman/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F77737&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
   <a href="https://www.facebook.com/profile.php?id=100092579926144"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 
