@@ -54,9 +54,9 @@
 </p>
 
 
-###
+
 <h3 align="left">📊 GitHub Stats</h3>
-###
+
 <p>Here's a snapshot of my GitHub activity.</p>
 
 <div align="center">
