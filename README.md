@@ -42,15 +42,24 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
+<h3 align="left">🤝 Let's Connect!</h3>
+
+<p>
+  I'm always excited to collaborate on interesting projects. Feel free to reach out!
+</p>
+
+<p>
+  <a href="mailto:mail@aleksanderekman.no"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aleksander-ekman-a4b6712ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
+<h3 align="left">📊 GitHub Stats</h3>
 ###
+<p>Here's a snapshot of my GitHub activity.</p>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allsers&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=60%2C000000%2C151515" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aleksanderekman&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=60%2C000000%2C151515" alt="GitHub Streak" /></a>
 </div>
 
-###
