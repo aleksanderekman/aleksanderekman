@@ -60,6 +60,7 @@
 <p>Here's a snapshot of my GitHub activity.</p>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aleksanderekman&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=60%2C000000%2C151515" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aleksanderekman&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderekman&theme=dark&show_icons=true&hide_border=true&layout=compact"/></a>
 </div>
 
