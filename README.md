@@ -18,13 +18,13 @@
 <p align="left">My name is Aleksander and I come from Oslo, Norway<br>
   <br>
   - 🎓 Currently studying IT at Elvebakken Upper Secondary School
-  <br><br>
+  <br>
   - 💻 Aspiring full-stack developer with a focus on web technologies
-  <br><br>
+  <br>
   - ☁️ Exploring the fascinating world of cloud infrastructure
-  <br><br>
+  <br>
   - 🎵 When not coding, you'll find me making music or hanging out with friends
-  <br><br>
+  <br>
   - 🌱 Always learning, always growing!
 </p>
 
