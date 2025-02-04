@@ -21,8 +21,6 @@
   - ☁️ Exploring the fascinating world of cloud infrastructure
   <br>
   - 🎵 When not coding, you'll find me making music or hanging out with friends
-  <br>
-  - 🌱 Always learning, always growing!
 </p>
 
 <h3 align="left">🛠️ Tech Stack</h3>
