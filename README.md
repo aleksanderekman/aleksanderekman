@@ -17,9 +17,9 @@
 
 <p align="left">My name is Aleksander and I come from Oslo, Norway<br><br>- 🔭 I’m a student in an IT field at Elvebakken Upper Secondary School<br>- 📚 I'm currently learning website development and cloud infrastructure<br>- ⚡ In my free time I like to code, play music and be with friends</p>
 
-###
+
 <h3 align="left">🛠️ Tech Stack</h3>
-###
+
 <h4>Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
