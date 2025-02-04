@@ -15,8 +15,13 @@
 
 ###
 
-<p align="left">My name is Aleksander and I come from Oslo, Norway<br><br>- 🔭 I’m a student in an IT field at Elvebakken Upper Secondary School<br>- 📚 I'm currently learning website development and cloud infrastructure<br>- ⚡ In my free time I like to code, play music and be with friends</p>
-
+<p align="left">My name is Aleksander and I come from Oslo, Norway<br><br>
+  - 🎓 Currently studying IT at Elvebakken Upper Secondary School
+  - 💻 Aspiring full-stack developer with a focus on web technologies
+  - ☁️ Exploring the fascinating world of cloud infrastructure
+  - 🎵 When not coding, you'll find me making music or hanging out with friends
+  - 🌱 Always learning, always growing!
+</p>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
