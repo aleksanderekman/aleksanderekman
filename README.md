@@ -16,10 +16,15 @@
 ###
 
 <p align="left">My name is Aleksander and I come from Oslo, Norway<br><br>
+  <br>
   - 🎓 Currently studying IT at Elvebakken Upper Secondary School
+  <br>
   - 💻 Aspiring full-stack developer with a focus on web technologies
+  <br>
   - ☁️ Exploring the fascinating world of cloud infrastructure
+  <br>
   - 🎵 When not coding, you'll find me making music or hanging out with friends
+  <br>
   - 🌱 Always learning, always growing!
 </p>
 
